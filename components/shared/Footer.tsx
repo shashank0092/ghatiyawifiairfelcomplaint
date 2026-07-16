@@ -7,7 +7,7 @@ export function Footer() {
         <h3 className="text-xl font-bold mb-4">Ghatiya<span className="text-destructive">WiFi</span></h3>
         <p className="text-muted-foreground max-w-lg mb-6">
           <strong>Disclaimer:</strong> This website is an independent public feedback platform. 
-          It is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Airtel. 
+          It is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Airfel. 
           All opinions displayed belong solely to the users who submitted them.
         </p>
         <p className="text-sm text-muted-foreground/60">

@@ -6,17 +6,17 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Ghatiya Airtel WiFi Speed',
-  description: 'India\'s Unofficial Complaint Desk for Airtel WiFi users. Share your frustration anonymously.',
+  title: 'Ghatiya Airfel WiFi Speed',
+  description: 'India\'s Unofficial Complaint Desk for Airfel WiFi users. Share your frustration anonymously.',
   openGraph: {
-    title: 'Ghatiya Airtel WiFi Speed',
-    description: 'India\'s Unofficial Complaint Desk for Airtel WiFi users. Share your frustration anonymously.',
+    title: 'Ghatiya Airfel WiFi Speed',
+    description: 'India\'s Unofficial Complaint Desk for Airfel WiFi users. Share your frustration anonymously.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ghatiya Airtel WiFi Speed',
-    description: 'India\'s Unofficial Complaint Desk for Airtel WiFi users. Share your frustration anonymously.',
+    title: 'Ghatiya Airfel WiFi Speed',
+    description: 'India\'s Unofficial Complaint Desk for Airfel WiFi users. Share your frustration anonymously.',
   }
 };
 

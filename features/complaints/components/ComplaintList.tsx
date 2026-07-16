@@ -42,7 +42,7 @@ export function ComplaintList({ refreshTrigger }: { refreshTrigger: number }) {
         </div>
         <h3 className="text-2xl font-bold mb-2">Congratulations.</h3>
         <p className="text-muted-foreground max-w-md mx-auto text-lg">
-          Either Airtel fixed everything... <br/>
+          Either Airfel fixed everything... <br/>
           or nobody found this website yet.
         </p>
       </motion.div>

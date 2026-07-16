@@ -46,7 +46,7 @@ const PHRASES = [
   { c: "Unplug Router", s: "Wait 10 Seconds", t: 'sticky' },
   { c: "Reconnecting in", s: "Forever", t: 'error' },
   { c: "Is It Me?", s: "Or The Internet?", t: 'minimal' },
-  { c: "Airtel Magic", s: "Disappearing Speed", t: 'retro' },
+  { c: "Airfel Magic", s: "Disappearing Speed", t: 'retro' },
   { c: "Data Exhausted", s: "Before Use", t: 'terminal' },
   { c: "Your Call Is", s: "Important To Us", t: 'sticky' },
   { c: "Resolution Time", s: "48 Hours", t: 'warning' },
